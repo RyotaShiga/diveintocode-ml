@@ -7,11 +7,11 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 事前学習期間(10月)<br>
 ### ・week1 Python入門<br>
 
-・week2 機械学習のための数学<br>
+### ・week2 機械学習のための数学<br>
 
-・week3 探索的データ分析<br>
+### ・week3 探索的データ分析<br>
 
-・week4 機械学習入門<br>
+### ・week4 機械学習入門<br>
 
 
 Term1 機械学習<br>
