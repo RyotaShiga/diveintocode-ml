@@ -4,10 +4,14 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 
 課題の内容は以下の通りです。
 
-・week1<br>
-・week2<br>
-・week3<br>
-・week4<br>
+・week1 Python入門<br>
+
+・week2 機械学習のための数学<br>
+
+・week3 探索的データ分析<br>
+
+・week4　機械学習入門<br>
+
 ・sprint1<br>
 ・sprint２<br>
 ・sprint3<br>
